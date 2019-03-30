@@ -1,5 +1,5 @@
 # 牛排豪丝 简易PoS指南
-几句话总结包含所有 Proof of Stake 区块链的 Staking 技术指南
+几句话总结各种 Proof of Stake 区块链 Staking 技术
 
 # stake-house
 tfast food style technical summary for Proof of Stake blockchains
