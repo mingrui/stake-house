@@ -7,7 +7,7 @@
 参考：
 * [Chorus.one权益池简介](https://blog.chorus.one/proof-of-stake-contenders-cosmos-network/)
 * [Coinmonks Staking教程](https://medium.com/coinmonks/cosmos-atom-staking-guide-4a4e703c998a)
-* [验证节点可视化：可看到所有验证节点](https://nylira.net/3d)
+* [验证节点可视化：可在右侧菜单看到所有验证节点](https://nylira.net/3d)
 
 |共识系统|Tendermint Bonded PoS|
 |---|---|
