@@ -1,5 +1,5 @@
 # 牛排豪丝 简易PoS指南
-几句话总结各种 Proof of Stake 区块链 Staking 抵押 技术
+几句话总结各种 Proof of Stake 区块链 Staking 抵押/权益 技术
 
 # Cosmos
 官方文档：https://cosmos.network/docs/spec/staking/  
