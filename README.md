@@ -6,7 +6,10 @@ fast food style stacking summary for Proof of Stake blockchains
 
 # Cosmos
 官方文档：https://cosmos.network/docs/spec/staking/  
-参考：https://blog.chorus.one/proof-of-stake-contenders-cosmos-network/
+
+参考：
+* https://blog.chorus.one/proof-of-stake-contenders-cosmos-network/
+* https://medium.com/coinmonks/cosmos-atom-staking-guide-4a4e703c998a
 
 |共识系统|Tendermint Bonded PoS|
 |---|---|
@@ -19,5 +22,6 @@ fast food style stacking summary for Proof of Stake blockchains
 |抵押投票|链上治理投票权益，1个Atom为1票|
 |权益池|[星火](https://cosmos.sparkpool.com/) /// [Staked.us](https://staked.us/stake/opportunities/)|
 
-* Delegation risk: 验证节点作恶，delegator资金会受到Slashing，永远丢失抵押的Atom。选择验证节点格外重要
-* Atom 通胀率设计鼓励抵押：如果抵押率过低，通胀率会持续增长，直到达到目标抵押率，目前66%
+* 抵押风险
+  * 验证节点作恶风险：delegator资金会受到Slashing，永远丢失抵押的Atom。选择验证节点格外重要
+  * 通胀浮动风险：Atom 通胀率设计鼓励抵押：如果抵押率过低，通胀率会持续增长，直到达到目标抵押率，目前66%
