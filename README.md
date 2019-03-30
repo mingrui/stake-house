@@ -5,8 +5,9 @@
 官方文档：https://cosmos.network/docs/spec/staking/  
 
 参考：
-* https://blog.chorus.one/proof-of-stake-contenders-cosmos-network/
-* https://medium.com/coinmonks/cosmos-atom-staking-guide-4a4e703c998a
+* [Chorus.one权益池简介](https://blog.chorus.one/proof-of-stake-contenders-cosmos-network/)
+* [Coinmonks Staking教程](https://medium.com/coinmonks/cosmos-atom-staking-guide-4a4e703c998a)
+* [验证节点可视化](https://nylira.net/3d)
 
 |共识系统|Tendermint Bonded PoS|
 |---|---|
@@ -17,7 +18,7 @@
 |惩罚机制|Hard Slashing(硬削减) 原因：双签名，下线时间过长 后果：永远丢失抵押的Atom|
 |抵押回报|报块奖励，手续费；7-20% 通胀率|
 |抵押投票|链上治理投票权益，1个Atom为1票|
-|权益池|[星火](https://cosmos.sparkpool.com/) /// [Staked.us](https://staked.us/stake/opportunities/)|
+|权益池|[星火](https://cosmos.sparkpool.com/)|
 
 * 抵押风险
   * 验证节点作恶风险：delegator资金会受到Slashing，永远丢失抵押的Atom。选择验证节点格外重要
