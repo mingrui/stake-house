@@ -2,7 +2,7 @@
 几句话总结各种 Proof of Stake 区块链 Staking 技术
 
 # stake-house
-tfast food style technical summary for Proof of Stake blockchains
+fast food style stacking summary for Proof of Stake blockchains
 
 # Cosmos
 官方文档：https://cosmos.network/docs/spec/staking/
