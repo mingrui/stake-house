@@ -4,7 +4,7 @@
 # Cosmos
 Vision: 底层币Atom并不想成为现金货币，而是纯粹的抵押通证，最终的价值为共识治理的权利通证。在Atom作为底层治理通证的保护下，上层应用可以自主选择应用内的现金货币，比如Bitcoin或者稳定币等等。
 
-官方文档：https://cosmos.network/docs/spec/staking/  
+官方文档：https://cosmos.network/docs/gaia/validators/validator-faq.html#general-concepts 
 
 参考：
 * [Cosmos 背后的关键理念](https://blog.chorus.one/the-key-ideas-behind-the-cosmos-network/)
