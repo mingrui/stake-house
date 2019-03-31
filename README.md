@@ -2,7 +2,7 @@
 几句话总结各种 Proof of Stake 区块链 Staking 抵押/权益 技术
 
 # Cosmos
-Vision: 底层币Atom并不想成为现金货币，而是纯粹的抵押通证，最终的价值为共识治理的权利通证。在Atom作为底层治理通证的保护下，上层应用可以自主选择应用内的现金货币，比如Bitcoin或者稳定币等等。
+__Vision: 底层币Atom并不想成为现金货币，而是纯粹的抵押通证。是更纯粹的以太坊，最终的价值为共识治理的权利通证。在Atom作为底层治理通证的保护下，上层应用可以自主选择应用内的现金货币，比如Bitcoin或者稳定币等等。__
 
 官方文档：https://cosmos.network/docs/gaia/validators/validator-faq.html#general-concepts 
 
@@ -33,7 +33,7 @@ Vision: 底层币Atom并不想成为现金货币，而是纯粹的抵押通证�
   * 私钥风险
 
 # Tezos
-Vision: XTZ想成为现金货币，底层协议更容易更改，所以对上层的生态开发并不是主要考虑。
+__Vision: XTZ想成为现金货币，竞争对手是Bitcoin，底层协议更容易更改，所以对上层的生态开发并不是主要考虑。__
 
 官方文档：http://tezos.gitlab.io/mainnet/introduction/howtorun.html#delegating-your-coins
 
