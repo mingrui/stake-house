@@ -24,7 +24,7 @@ __Vision: 底层币Atom并不想成为现金货币，而是纯粹的抵押通证
 |抵押回报|报块奖励，手续费；7-20% 通胀率，经济模型激励抵押|
 |抵押投票|链上治理投票权益，1个Atom为1票|
 |出块节点竞选||
-|推荐池|[星火](https://cosmos.sparkpool.com/)|
+|推荐池|[星火](https://cosmos.sparkpool.com/) [Wetez](https://www.wetez.io/mhomepagecn)|
 
 * 抵押风险
   * 验证节点作恶风险：delegator资金会受到Slashing，永远丢失抵押的Atom。选择验证节点格外重要
@@ -59,7 +59,7 @@ __Vision: XTZ想成为现金货币，竞争对手是Bitcoin，底层协议更容
 |抵押回报|每年最多5.51%通胀，回报由Baker选择如何分配给自己的委托人，Endorser和Accuser也会产生回报|
 |抵押投票|不是1 XTZ 1票，而是由Baker产出的一份额的币（10,000 XTZ）统一称作一个Roll（面包条），一个Roll一票|
 |Baker竞选|Baker不需要特殊竞选任何人可以在抵押币量足够的情况下，随时成为Baker|
-|推荐池||
+|推荐池|[Wetez](https://www.wetez.io/mhomepagecn)|
 
 * 抵押风险
   * 验证节点不付出Baking回报，但是用户可以很容易发现并且很快速的切换委托，只会损失本轮委托
