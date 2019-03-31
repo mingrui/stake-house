@@ -26,6 +26,8 @@
 * 抵押风险
   * 验证节点作恶风险：delegator资金会受到Slashing，永远丢失抵押的Atom。选择验证节点格外重要
   * 通胀浮动风险：Atom 通胀率设计鼓励抵押：如果抵押率过低，通胀率会持续增长，直到达到目标抵押率，目前66%
+  * DDS
+  * 私钥风险
 
 # Tezos
 官方文档：http://tezos.gitlab.io/mainnet/introduction/howtorun.html#delegating-your-coins
@@ -33,11 +35,12 @@
 参考：
 * [Cryptium Labs Tezos 简介](https://medium.com/cryptium/the-hitchhikers-guide-to-tezos-36f112662074)
 * [Liquid PoS](https://medium.com/tezos/liquid-proof-of-stake-aec2f7ef1da7)
-* [Bakers](https://www.mytezosbaker.com/)
+* [从Baker的经验](https://medium.com/tezos/its-a-baker-s-life-for-me-c214971201e1)
+* [All Bakers](https://www.mytezosbaker.com/)
 
 特殊词汇：  
 * Bakers：出块节点  
-* Baking：Staking 抵押
+* Baking：通过 Staking 抵押 出块
 
 |共识系统|Liquid PoS|
 |---|---|
@@ -48,11 +51,13 @@
 |锁定时间|瞬间锁定，"several weeks" 几周解锁|
 |硬件要求|普通电脑，稳定网络|
 |惩罚机制|Accuser 主动检查作恶：1.Double Baker 2.Double Endorser。作恶节点的一半抵押币支奖励给Accuser|
-|抵押回报|每年最多5.51%通胀|
-|抵押投票|不是1 XTZ 1票，而是由Baker产出的一份额的币统一称作一个Roll（面包条），一个Roll一票|
+|抵押回报|每年最多5.51%通胀，回报有Baker选择如何分配给自己的委托人|
+|抵押投票|不是1 XTZ 1票，而是由Baker产出的一份额的币（10,000 XTZ）统一称作一个Roll（面包条），一个Roll一票|
 |Baker竞选|Baker不需要特殊竞选任何人可以在抵押币量足够的情况下，随时成为Baker|
 |推荐池||
 
 * 抵押风险
  * 验证节点不付出手汇报，但是用户可以很容易发现并且很快速的切换委托
  * 与 Cosmos 不同，验证节点作恶，用户的抵押币不会受到损失
+ * DDoS
+ * 私钥风险
