@@ -56,7 +56,7 @@ __Vision: XTZ想成为现金货币，竞争对手是Bitcoin，底层协议更容
 |锁定时间|瞬间锁定，"several weeks" 几周解锁|
 |硬件要求|普通电脑，稳定网络|
 |惩罚机制|Accuser 主动检查作恶：1.Double Baker 2.Double Endorser。作恶节点的一半抵押币支奖励给Accuser|
-|抵押回报|每年最多5.51%通胀，回报有Baker选择如何分配给自己的委托人|
+|抵押回报|每年最多5.51%通胀，回报由Baker选择如何分配给自己的委托人，Endorser和Accuser也会产生回报|
 |抵押投票|不是1 XTZ 1票，而是由Baker产出的一份额的币（10,000 XTZ）统一称作一个Roll（面包条），一个Roll一票|
 |Baker竞选|Baker不需要特殊竞选任何人可以在抵押币量足够的情况下，随时成为Baker|
 |推荐池||
