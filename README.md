@@ -7,6 +7,7 @@ Vision: 底层币Atom并不想成为现金货币，而是纯粹的抵押通证�
 官方文档：https://cosmos.network/docs/spec/staking/  
 
 参考：
+* [Cosmos 背后的关键理念](https://blog.chorus.one/the-key-ideas-behind-the-cosmos-network/)
 * [Chorus.one 权益池简介](https://blog.chorus.one/proof-of-stake-contenders-cosmos-network/)
 * [Coinmonks Staking 教程](https://medium.com/coinmonks/cosmos-atom-staking-guide-4a4e703c998a)
 * [验证节点可视化：可在右侧菜单看到所有验证节点](https://nylira.net/3d)
