@@ -4,14 +4,6 @@
 # Cosmos
 __Vision: 底层币Atom并不想成为现金货币，而是纯粹的抵押通证。是更纯粹的以太坊，最终的价值为共识治理的权利通证。在Atom作为底层治理通证的保护下，上层应用可以自主选择应用内的现金货币，比如Bitcoin或者稳定币等等。__
 
-官方文档：https://cosmos.network/docs/gaia/validators/validator-faq.html#general-concepts 
-
-参考：
-* [Cosmos 背后的关键理念](https://blog.chorus.one/the-key-ideas-behind-the-cosmos-network/)
-* [Chorus.one 权益池简介](https://blog.chorus.one/proof-of-stake-contenders-cosmos-network/)
-* [Coinmonks Staking 教程](https://medium.com/coinmonks/cosmos-atom-staking-guide-4a4e703c998a)
-* [验证节点可视化：可在右侧菜单看到所有验证节点](https://nylira.net/3d)
-
 |共识系统|Tendermint Bonded PoS|
 |---|---|
 |抵押币|Atom|
@@ -31,17 +23,16 @@ __Vision: 底层币Atom并不想成为现金货币，而是纯粹的抵押通证
   * 通胀浮动风险：Atom 通胀率设计鼓励抵押：如果抵押率过低，通胀率会持续增长，直到达到目标抵押率，目前66%
   * DDS
   * 私钥风险
+  
+官方文档：https://cosmos.network/docs/gaia/validators/validator-faq.html#general-concepts 
+参考：
+* [Cosmos 背后的关键理念](https://blog.chorus.one/the-key-ideas-behind-the-cosmos-network/)
+* [Chorus.one 权益池简介](https://blog.chorus.one/proof-of-stake-contenders-cosmos-network/)
+* [Coinmonks Staking 教程](https://medium.com/coinmonks/cosmos-atom-staking-guide-4a4e703c998a)
+* [验证节点可视化：可在右侧菜单看到所有验证节点](https://nylira.net/3d)
 
 # Tezos
 __Vision: XTZ想成为现金货币，竞争对手是Bitcoin，底层协议更容易更改，所以对上层的生态开发并不是主要考虑。__
-
-官方文档：http://tezos.gitlab.io/mainnet/introduction/howtorun.html#delegating-your-coins
-
-参考：
-* [Cryptium Labs Tezos 简介](https://medium.com/cryptium/the-hitchhikers-guide-to-tezos-36f112662074)
-* [Liquid PoS](https://medium.com/tezos/liquid-proof-of-stake-aec2f7ef1da7)
-* [从Baker的经验](https://medium.com/tezos/its-a-baker-s-life-for-me-c214971201e1)
-* [All Bakers](https://www.mytezosbaker.com/)
 
 特殊词汇：  
 * Bakers：出块节点  
@@ -66,3 +57,10 @@ __Vision: XTZ想成为现金货币，竞争对手是Bitcoin，底层协议更容
   * 与 Cosmos 不同，验证节点作恶，用户的抵押币不会受到损失
   * DDoS
   * 私钥风险
+
+官方文档：http://tezos.gitlab.io/mainnet/introduction/howtorun.html#delegating-your-coins
+参考：
+* [Cryptium Labs Tezos 简介](https://medium.com/cryptium/the-hitchhikers-guide-to-tezos-36f112662074)
+* [Liquid PoS](https://medium.com/tezos/liquid-proof-of-stake-aec2f7ef1da7)
+* [从Baker的经验](https://medium.com/tezos/its-a-baker-s-life-for-me-c214971201e1)
+* [All Bakers](https://www.mytezosbaker.com/)
