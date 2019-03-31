@@ -35,8 +35,10 @@ __Vision: 底层币Atom并不想成为现金货币，而是纯粹的抵押通证
 __Vision: XTZ想成为现金货币，竞争对手是Bitcoin，底层协议更容易更改，所以对上层的生态开发并不是主要考虑。__
 
 特殊词汇：  
-* Bakers：出块节点  
+* Bakers：出块节点，直接获取奖励
 * Baking：通过 Staking 抵押 出块
+* Endorser：通过为Baker背书获取奖励
+* Accuser：监控Baker，Endorser作恶获取奖励
 
 |共识系统|Liquid PoS|
 |---|---|
