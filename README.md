@@ -2,6 +2,8 @@
 几句话总结各种 Proof of Stake 区块链 Staking 抵押/权益 技术
 
 # Cosmos
+Vision: 底层币Atom并不想成为现金货币，而是纯粹的抵押通证，最终的价值为共识治理的权利通证。在Atom作为底层治理通证的保护下，上层应用可以自主选择应用内的现金货币，比如Bitcoin或者稳定币等等。
+
 官方文档：https://cosmos.network/docs/spec/staking/  
 
 参考：
@@ -30,6 +32,8 @@
   * 私钥风险
 
 # Tezos
+Vision: XTZ想成为现金货币，底层协议更容易更改，所以对上层的生态开发并不是主要考虑。
+
 官方文档：http://tezos.gitlab.io/mainnet/introduction/howtorun.html#delegating-your-coins
 
 参考：
@@ -57,7 +61,7 @@
 |推荐池||
 
 * 抵押风险
- * 验证节点不付出手汇报，但是用户可以很容易发现并且很快速的切换委托
- * 与 Cosmos 不同，验证节点作恶，用户的抵押币不会受到损失
- * DDoS
- * 私钥风险
+  * 验证节点不付出手汇报，但是用户可以很容易发现并且很快速的切换委托
+  * 与 Cosmos 不同，验证节点作恶，用户的抵押币不会受到损失
+  * DDoS
+  * 私钥风险
