@@ -3,7 +3,7 @@
 
 目录：
 1. [链](https://github.com/mingrui/stake-house/blob/master/README.md#%E9%93%BE)
-2. [托管](https://github.com/mingrui/stake-house/blob/master/README.md#%E8%8A%82%E7%82%B9)
+2. [托管](https://github.com/mingrui/stake-house/blob/master/README.md#%E6%89%98%E7%AE%A1)
 3. [鲸鱼](https://github.com/mingrui/stake-house/blob/master/README.md#%E9%B2%B8%E9%B1%BC)
 4. [安全](https://github.com/mingrui/stake-house/blob/master/README.md#%E5%AE%89%E5%85%A8)
 
