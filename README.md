@@ -101,4 +101,29 @@ MakerDAO 没有 直接的 Staking 概念，但是MKR通证有设计好的持币�
 
 # 鲸鱼
 
+## Irisnet
+网站上列出的机构:  
+[AMINO Capital](https://www.aminocapital.com/)  
+[Bibox](https://www.bibox.com/)  
+[Huobi Capital](https://www.hbg.com/en-us/capital/)  
+[GBIC](https://gbic.io/)  
+https://bihu.com/  
+http://www.chainpe.com/en/
+https://chainpool.io/
+http://coefficient.network/
+http://consensuscapital.ca/
+https://genblock.capital/
+https://ink.one/
+http://www.linkvc.com/
+http://medishares.org/#/
+http://www.milestonevc.com/index.html
+http://nirvana.capital/
+https://www.ngc.fund/
+https://www.theorigincapital.com/
+https://satoshi.fund/
+http://www.svinsight.com/
+https://u.network/
+http://www.unityvc.com/zh.html?12h10c
+http://waterdrip.io/
+
 # 安全
