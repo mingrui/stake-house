@@ -1,7 +1,9 @@
 # 牛排豪丝 简易PoS指南
 几句话总结各种 Proof of Stake 区块链 Staking 抵押/权益 技术
 
-# Cosmos
+# 链
+
+## Cosmos
 __Vision: 底层币Atom并不想成为现金货币，而是纯粹的抵押通证。是更纯粹的以太坊，最终的价值为共识治理的权利通证。在Atom作为底层治理通证的保护下，上层应用可以自主选择应用内的现金货币，比如Bitcoin或者稳定币等等。__
 
 |共识系统|Tendermint Bonded PoS|
@@ -32,7 +34,7 @@ __Vision: 底层币Atom并不想成为现金货币，而是纯粹的抵押通证
 * [验证节点可视化：可在右侧菜单看到所有验证节点](https://nylira.net/3d)
 * [Validator 运转费用和盈利模式](https://medium.com/@davekaj/how-to-become-a-cosmos-validator-276862d5bfc7)
 
-# Irisnet
+## Irisnet
 __Vision: 和Cosmos用的相同的共识协议__
 
 Staking与 Cosmos 基本相同
@@ -40,7 +42,7 @@ Staking与 Cosmos 基本相同
 参考:  
 * [Hitchhikers Guide to Irisnet](https://medium.com/cryptium-irisnet/the-hitchhikers-guide-to-the-irisnet-56bed7439c4b)
 
-# Tezos
+## Tezos
 __Vision: XTZ想成为现金货币，竞争对手是Bitcoin，底层协议更容易更改，所以对上层的生态开发并不是主要考虑。__
 
 特殊词汇：  
@@ -76,7 +78,7 @@ __Vision: XTZ想成为现金货币，竞争对手是Bitcoin，底层协议更容
 * [从Baker的经验](https://medium.com/tezos/its-a-baker-s-life-for-me-c214971201e1)
 * [All Bakers](https://www.mytezosbaker.com/)
 
-# MakerDAO  
+## MakerDAO  
 __Vision: DAI为稳定货币，MKR为治理通证__
 
 目前的最大Use Case：ETH长期持有者需要短期现金流动性但是又不想卖掉自己手中的ETH，例如Aragon项目方的[抵押贷款](https://diar.co/ethereum-ico-treasury-balances/)，这种做法相当于加杠杆看长ETH。如果ETH跌太多，会被 margin call.
@@ -88,3 +90,9 @@ MakerDAO 没有 直接的 Staking 概念，但是MKR通证有设计好的持币�
 参考：
 * [Awesome MakerDAO](https://github.com/makerdao/awesome-makerdao/blob/master/README.md)
 * [Vision Hill MakerDAO 案例学习](https://medium.com/vision-hill-blog/a-makerdao-case-study-47a31d858be5?fbclid=IwAR254XvvWb79O945Luk9ImJfpz8E1qQ0wfyc1LjjZfh3-_a9nPq9y7Dn9OQ)
+
+# 节点
+
+# 鲸鱼
+
+# 安全
