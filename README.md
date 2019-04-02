@@ -4,7 +4,7 @@
 # 目录
 1. [链](https://github.com/mingrui/stake-house/blob/master/README.md#%E9%93%BE)
 2. [托管](https://github.com/mingrui/stake-house/blob/master/README.md#%E6%89%98%E7%AE%A1)
-3. [鲸鱼](https://github.com/mingrui/stake-house/blob/master/README.md#%E9%B2%B8%E9%B1%BC)
+3. [机构](https://github.com/mingrui/stake-house/blob/master/README.md#%E9%B2%B8%E9%B1%BC)
 4. [安全](https://github.com/mingrui/stake-house/blob/master/README.md#%E5%AE%89%E5%85%A8)
 
 # 链
@@ -99,7 +99,7 @@ MakerDAO 没有 直接的 Staking 概念，但是MKR通证有设计好的持币�
 
 # 托管
 
-# 鲸鱼
+# 机构
 
 ## Irisnet
 网站上列出的机构:  
