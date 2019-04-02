@@ -1,6 +1,9 @@
 # 牛排豪丝 简易PoS指南
 几句话总结各种 Proof of Stake 区块链 Staking 抵押/权益 技术
 
+目录：
+1. [链](https://github.com/mingrui/stake-house/blob/master/README.md#%E9%93%BE)
+
 # 链
 
 ## Cosmos
