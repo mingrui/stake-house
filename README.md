@@ -107,23 +107,34 @@ MakerDAO 没有 直接的 Staking 概念，但是MKR通证有设计好的持币�
 [Bibox](https://www.bibox.com/)  
 [Huobi Capital](https://www.hbg.com/en-us/capital/)  
 [GBIC](https://gbic.io/)  
-https://bihu.com/  
-http://www.chainpe.com/en/
-https://chainpool.io/
-http://coefficient.network/
-http://consensuscapital.ca/
-https://genblock.capital/
-https://ink.one/
-http://www.linkvc.com/
-http://medishares.org/#/
-http://www.milestonevc.com/index.html
-http://nirvana.capital/
-https://www.ngc.fund/
-https://www.theorigincapital.com/
-https://satoshi.fund/
-http://www.svinsight.com/
-https://u.network/
-http://www.unityvc.com/zh.html?12h10c
-http://waterdrip.io/
+[8Decimal Capital](http://8dcapital.com/)  
+[币乎](https://bihu.com/)  
+[BA Capital](https://medium.com/carryprotocol/bitmains-angel-investor-bitfinex-shareholder-join-carry-as-strategic-investor-b50ba06f7f39) 不确定  
+[BKFUND](http://bkfund.io/)  
+[拜占庭资本](http://www.markchain.com/)  
+[CHAINPE](http://www.chainpe.com/en/)  
+[CP](https://chainpool.io/)  
+[Coeffecient Ventures](http://coefficient.network/)  
+[共识资本](http://consensuscapital.ca/)  
+读数基金 DUSHU Foundation  
+[Genblock Capital](https://genblock.capital/)  
+[Hayek Capital](http://hayek.capital/index_en.html)  
+[INK Labs](https://ink.one/)  
+[LINKVC](http://www.linkvc.com/)  
+[MediShares](http://medishares.org/#/)  
+[界后](http://www.milestonevc.com/index.html)  
+[Nirvana Capital](http://nirvana.capital/)  
+[Neo Global Capital](https://www.ngc.fund/)  
+[Origin Capital](https://www.theorigincapital.com/)  
+[Satoshi Fund](https://satoshi.fund/)  
+[硅谷密探](http://www.svinsight.com/)  
+[时戳资本](https://www.crunchbase.com/organization/timestamp-capital#section-overview)  
+[回向基金](https://www.block123.com/zh-hans/nav/522980786639.htm)  
+[U Network](https://u.network/)  
+[九合创投](http://www.unityvc.com/zh.html?12h10c)  
+[Univalues Associates](https://uva.fund/)  
+[水滴资本](http://waterdrip.io/)  
+[一道资本](http://www.xiniudata.com/investor/f8e5958235b4484ebaec0acca4586f4c/overview)
+
 
 # 安全
