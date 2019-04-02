@@ -43,7 +43,7 @@ __Vision: 底层币Atom并不想成为现金货币，而是纯粹的抵押通证
 ## Irisnet
 __Vision: 和Cosmos用的相同的共识协议__
 
-Staking与 Cosmos 基本相同
+由于共识协议由Tendermint团队合作提供，Staking 机制与 Cosmos 基本相同，特别的一点是有一个官方钱包 Rainbow Wallet，这个钱包里面直接支持托管服务。比如Irisnet投资方 NGC 在官方的[公众号内推荐用 Rainbow 钱包进行托管](https://mp.weixin.qq.com/s?__biz=MzU4NTY0MDE1Mg==&mid=2247483872&idx=1&sn=43d90ca0c62144c39202ecaf86bd80a8&chksm=fd863057caf1b941ca6c3b8d1f3a9829fcb8fe3365a242d02ad4614fc1e3e02d351edce485fa&scene=0&xtrack=1)。
 
 参考:  
 * [Hitchhikers Guide to Irisnet](https://medium.com/cryptium-irisnet/the-hitchhikers-guide-to-the-irisnet-56bed7439c4b)
