@@ -68,11 +68,11 @@ __Vision: XTZ想成为现金货币，竞争对手是Bitcoin，底层协议更容
 * [All Bakers](https://www.mytezosbaker.com/)
 
 # MakerDAO  
-__Vision: DAI为稳定货币，MKR为治理通政__
+__Vision: DAI为稳定货币，MKR为治理通证__
 
 目前的最大Use Case：ETH长期持有者需要短期现金流动性但是又不想卖掉自己手中的ETH，例如Aragon项目方的[抵押贷款](https://diar.co/ethereum-ico-treasury-balances/)，这种做法相当于加杠杆看长ETH。如果ETH跌太多，会被 margin call.
 
-MakerDAO 没有 直接的 Staking 概念，但是MKR通政有设计好的持币升值逻辑：MKR通政作为系统的治理通政，有投票权，那么MKR的持币人并不需要特殊的Staking Contract去做抵押。整个抵押过程可以想象为全自动的过程，因为整个系统的借贷利率是0.5%，这个利息的收取方法可以简单理解直接烧掉等价值的在外流通的MKR通政，所以长期持MKR人理论上直接享受升值的快感。
+MakerDAO 没有 直接的 Staking 概念，但是MKR通证有设计好的持币升值逻辑：MKR通证作为系统的治理通证，有投票权，那么MKR的持币人并不需要特殊的Staking Contract去做抵押。整个抵押过程可以想象为全自动的过程，因为整个系统的借贷利率是0.5%，这个利息的收取方法可以简单理解直接烧掉等价值的在外流通的MKR通证，所以长期持MKR人理论上直接享受升值的快感。
 
 这么来讲的话，就能理解为什么coinbase的[新闻](https://blog.coinbase.com/coinbase-custody-launches-staking-support-for-tezos-makerdao-governance-to-follow-68f7bc51bc53)标题是Tezos Staking & MakerDAO Governance，而不是MakerDao 'Staking'。
 
