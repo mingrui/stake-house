@@ -30,6 +30,15 @@ __Vision: 底层币Atom并不想成为现金货币，而是纯粹的抵押通证
 * [Chorus.one 权益池简介](https://blog.chorus.one/proof-of-stake-contenders-cosmos-network/)
 * [Coinmonks Staking 教程](https://medium.com/coinmonks/cosmos-atom-staking-guide-4a4e703c998a)
 * [验证节点可视化：可在右侧菜单看到所有验证节点](https://nylira.net/3d)
+* [Validator 运转费用和盈利模式](https://medium.com/@davekaj/how-to-become-a-cosmos-validator-276862d5bfc7)
+
+# Irisnet
+__Vision: 和Cosmos用的相同的共识协议__
+
+Staking与 Cosmos 基本相同
+
+参考:  
+* [Hitchhikers Guide to Irisnet](https://medium.com/cryptium-irisnet/the-hitchhikers-guide-to-the-irisnet-56bed7439c4b)
 
 # Tezos
 __Vision: XTZ想成为现金货币，竞争对手是Bitcoin，底层协议更容易更改，所以对上层的生态开发并不是主要考虑。__
