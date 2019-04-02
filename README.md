@@ -76,4 +76,6 @@ MakerDAO的 Staking 概念比较特殊：MKR通政作为系统的治理通政，
 
 这么来讲的话，就能理解为什么coinbase的[新闻](https://blog.coinbase.com/coinbase-custody-launches-staking-support-for-tezos-makerdao-governance-to-follow-68f7bc51bc53)标题是Tezos Staking & MakerDAO Governance，而不是MakerDao 'Staking'。
 
-
+参考：
+* [Awesome MakerDAO](https://github.com/makerdao/awesome-makerdao/blob/master/README.md)
+* [Vision Hill MakerDAO 案例学习](https://medium.com/vision-hill-blog/a-makerdao-case-study-47a31d858be5?fbclid=IwAR254XvvWb79O945Luk9ImJfpz8E1qQ0wfyc1LjjZfh3-_a9nPq9y7Dn9OQ)
