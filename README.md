@@ -68,8 +68,7 @@ __Vision: XTZ想成为现金货币，竞争对手是Bitcoin，底层协议更容
 * [All Bakers](https://www.mytezosbaker.com/)
 
 # MakerDAO  
-
-__Vision: DAI为稳定货币，MKR为治理通政
+__Vision: DAI为稳定货币，MKR为治理通政__
 
 目前的最大Use Case：ETH长期持有者需要短期现金流动性但是又不想卖掉自己手中的ETH，例如Aragon项目方的[抵押贷款](https://diar.co/ethereum-ico-treasury-balances/)，这种做法相当于加杠杆看长ETH。如果ETH跌太多，会被 margin call.
 
