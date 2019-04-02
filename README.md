@@ -24,7 +24,7 @@ __Vision: 底层币Atom并不想成为现金货币，而是纯粹的抵押通证
   * DDS
   * 私钥风险
   
-官方文档：https://cosmos.network/docs/gaia/validators/validator-faq.html#general-concepts 
+官方文档：https://cosmos.network/docs/gaia/validators/validator-faq.html#general-concepts  
 参考：
 * [Cosmos 背后的关键理念](https://blog.chorus.one/the-key-ideas-behind-the-cosmos-network/)
 * [Chorus.one 权益池简介](https://blog.chorus.one/proof-of-stake-contenders-cosmos-network/)
@@ -60,7 +60,7 @@ __Vision: XTZ想成为现金货币，竞争对手是Bitcoin，底层协议更容
   * DDoS
   * 私钥风险
 
-官方文档：http://tezos.gitlab.io/mainnet/introduction/howtorun.html#delegating-your-coins
+官方文档：http://tezos.gitlab.io/mainnet/introduction/howtorun.html#delegating-your-coins  
 参考：
 * [Cryptium Labs Tezos 简介](https://medium.com/cryptium/the-hitchhikers-guide-to-tezos-36f112662074)
 * [Liquid PoS](https://medium.com/tezos/liquid-proof-of-stake-aec2f7ef1da7)
